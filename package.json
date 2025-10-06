@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moebits/youtube.ts"
+    "url": "https://github.com/Moebytes/youtube.ts"
   },
   "keywords": [
     "youtube",
@@ -22,7 +22,7 @@
     "api",
     "videos"
   ],
-  "author": "Moebits",
+  "author": "Moebytes",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.2.4",
